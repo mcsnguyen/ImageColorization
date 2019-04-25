@@ -1,8 +1,8 @@
-BW2G/images/
-BW2G/bw_images/
-BW2G/gray_images/
-BW2G/squared_images/
-BW2G/.ipynb_checkpoints/*
+BW2G/images/*
+BW2G/bw_images/*
+BW2G/gray_images/*
+BW2G/squared_images/*
+BW2G/.ipynb_checkpoints/
 GAN/
 
 *.zip

@@ -1,9 +1,16 @@
-BW2G/images/*
-BW2G/bw_images/*
-BW2G/gray_images/*
-BW2G/squared_images/*
+BW2G/images/
+BW2G/bw_images/
+BW2G/gray_images/
+BW2G/squared_images/
 BW2G/.ipynb_checkpoints/
+BW2G/aug_image_set/
+BW2G/blur_images/
+BW2G/predicted_images/
+BW2G/squared_images-2/
+BW2G/bw_images_old/
+BW2G/saved_parameters/loaded_images.npz
 GAN/
+
 
 *.zip
 
